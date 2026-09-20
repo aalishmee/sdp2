@@ -2,7 +2,6 @@
 
 **Student:** Alish Medina
 **Group:** SE-2538
-**Submitted commit:** `<paste your short commit hash here>`
 
 ---
 
@@ -41,10 +40,8 @@ src/
 ---
 
 ## Prerequisites
-- **JDK 17** (tested with Temurin 17). Verify with:
 java -version
 javac -version
-Both must print `17.x.x`.
 - Any Java IDE (IntelliJ IDEA recommended) **or** a terminal with `javac` on the PATH.
 
 ---
